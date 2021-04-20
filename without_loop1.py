@@ -6,3 +6,4 @@ def PrintNum(num):
         print(num)
 PrintNum(100)
 ##print(r)
+##r=PrintNum(100)
