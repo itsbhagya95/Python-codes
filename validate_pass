@@ -1,0 +1,7 @@
+#!/usr/bin/python
+username=input('Enter username :')
+password=input('Enter password :')
+if username.lower()=='bhagya' and password=='reva':
+    print('Valid user!!')
+else:
+    print('Invalid User!!')
