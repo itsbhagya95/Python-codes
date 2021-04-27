@@ -7,10 +7,6 @@ def PrintNum(num):
 PrintNum(50)
 ##print(r)
 ##r=PrintNum(100)
-<<<<<<< HEAD
 print("Hello")
 ##Bhagya
-=======
-#  change done by subham
-# for github
->>>>>>> main
+##Mumbai
