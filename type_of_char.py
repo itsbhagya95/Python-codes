@@ -15,5 +15,4 @@ elif s.isspace():
     print('It is space character')
 else:
     print('It is nonspace special character')
-### subham
 
